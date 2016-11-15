@@ -1,0 +1,9 @@
+cuento
+primera prueba
+
+segunda prueba se crea archivo, se guarda “add” y luego se crea commit.
+tercer cambio agregar foto
+
+branch prueba… git branch nombre_nombre también se añadió foto nueva de iphone
+para grabar todos los cambios y no solo uno por uno se usa el punto (.) git add .
+
